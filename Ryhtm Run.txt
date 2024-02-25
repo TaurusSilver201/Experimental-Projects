@@ -1,0 +1,3 @@
+This code prompts the user to enter a word, and then it generates a list of words that rhyme with the input word using the CMU Pronouncing Dictionary from the NLTK library. The code first downloads the CMU Pronouncing Dictionary if it's not already available.
+To run this code, you need to have NLTK installed. You can install it using pip: pip install nltk
+After installing NLTK, you can run the code, and it will prompt you to enter a word. It will then print a list of words that rhyme with the input word.
